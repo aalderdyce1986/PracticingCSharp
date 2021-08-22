@@ -60,7 +60,7 @@ namespace UnderstandingArrays
 
 
 
-            // THIS will take a string, reverse everything and stuff. Fuckin awesome.
+            // THIS will take a string, reverse everything and stuff.
 
 
             string zig = "You can get what you want out of life" +
